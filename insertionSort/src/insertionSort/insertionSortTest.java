@@ -32,11 +32,11 @@ public void testNegatives( ) {
 
 		int numbers[] = new int[5];
 
-		numbers[0] =-1;
-		numbers[1] =-2;
+		numbers[0] =-5;
+		numbers[1] =-4;
 		numbers[2] =-3;
-		numbers[3] =-4;
-		numbers[4] =-5;
+		numbers[3] =-2;
+		numbers[4] =-1;
 	insertionSort aot = new insertionSort( numbers, 5);
 
 
